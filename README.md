@@ -1,4 +1,4 @@
-Welcome in the SUB''s public Maven repository !
+Welcome in the SUB's public Maven repository !
 ================================================
 
 How to use it
@@ -53,6 +53,6 @@ Greetings
 
 Thanks to [Cemerick][] for setting up this Maven repository and [Ekito] for this README file tempate.
 
-  []: 
+
   [Cemerick]: http://cemerick.com/2010/08/24/hosting-maven-repos-on-github/
   [Ekito]: https://github.com/Ekito
